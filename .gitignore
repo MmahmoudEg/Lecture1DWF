@@ -13,3 +13,7 @@ __pycache__/
 *.swo
 *.log
 .DS_Store
+env/
+venv/
+*.csv
+*.ipynb_checkpoints/
